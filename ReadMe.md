@@ -1,4 +1,4 @@
-# This is Vanila JavaScript Project Series Powered By **Coding Addict**
+# This is Vanilla JavaScript Project Series Powered By **Coding Addict**
 
 ## If you like this project don't forget the give **Star**. Thank You 😀
 
